@@ -33,6 +33,9 @@ import java.util.ArrayList;
 import static com.eddy.alarm.ui.AddEditAlarmActivity.ADD_ALARM;
 import static com.eddy.alarm.ui.AddEditAlarmActivity.buildAddEditAlarmActivityIntent;
 
+
+//DEVELOPER BRANCH LAUNCHED
+
 public final class MainFragment extends Fragment
         implements LoadAlarmsReceiver.OnAlarmsLoadedListener {
 
