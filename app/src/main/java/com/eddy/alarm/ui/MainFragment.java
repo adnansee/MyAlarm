@@ -34,7 +34,7 @@ import static com.eddy.alarm.ui.AddEditAlarmActivity.ADD_ALARM;
 import static com.eddy.alarm.ui.AddEditAlarmActivity.buildAddEditAlarmActivityIntent;
 
 
-//DEVELOPER BRANCH LAUNCHED
+//ALARM RING ACTIVITY ATTEMPT
 
 public final class MainFragment extends Fragment
         implements LoadAlarmsReceiver.OnAlarmsLoadedListener {
